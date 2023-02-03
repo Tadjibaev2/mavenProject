@@ -9,6 +9,7 @@ public class App {
             .name("Ivan")
             .age(18)
             .national("russian")
+            .surname("Kashin")
             .build();
 
     }
